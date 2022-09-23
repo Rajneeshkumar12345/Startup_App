@@ -12,13 +12,12 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+        <h5 className={styles.title}>
+          Welcome to <a href="https://linktr.ee/atom36942">ATOM !</a>
+        </h5>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Startup Community App
         </p>
 
         <div className={styles.grid}>
